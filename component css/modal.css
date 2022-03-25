@@ -1,12 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Redressed&family=Roboto:wght@300&family=Satisfy&family=Shizuru&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped:wght@300&display=swap');
 body{
-font-family: 'Roboto', sans-serif;
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
 box-sizing: border-box;
 margin: 0px;
 padding: 0px;
-background-color: #111827;
+background-color:  #31353a;;
 }
+
 
 * {
 
